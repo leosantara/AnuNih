@@ -1,1 +1,19 @@
 https://github.com/gian-pradipta/tcp-groupchat/blob/main/client.py
+
+PS D:\Latihan\Python\okee> python .\client.py                                                           
+Server asal: 192.168.12.25                                                                              
+Choose your nickname: 1234
+                1234 joined!
+                Connected to server!
+ginnnnnnnn
+                gian123 joined!
+>> gian123: hello
+!download;LOGO.png
+                yandiganteng joined!
+>> yandiganteng: halo jawa
+>> cay: ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+!upload;helloooo.txt>> yandiganteng: kamu cina baik hati
+
+>> yandiganteng: wo ai ni sheng wu 
+>> yandiganteng: cao ni ma 
+>> yandiganteng: lan jiau
